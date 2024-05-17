@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    flex-direction:row;
+    
+
+}
+input{
+    height: 30px;
+    width: 150px;
+
+}
